@@ -19,10 +19,11 @@ body
 }
 .navbar-inverse, #my_nav_bar{
     position: fixed;
+    top:0;
     
 }
 .navbar-header{
-    width:1500px;
+    width:2000px;
 }
 ..movie_head
 {
