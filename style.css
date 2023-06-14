@@ -18,19 +18,19 @@ body
     margin:20px
 }
 .navbar-inverse, #my_nav_bar{
+    top:0%;
     position: fixed;
-    top:0;
     
 }
 .navbar-header{
     width:2000px;
 }
-..movie_head
+.movie_head
 {
     font-size: 20px;
     padding:6px 22px;
 }
-.movie_head 1
+.movie_head 
     {
         float: right;
     }
